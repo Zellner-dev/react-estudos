@@ -1,0 +1,60 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    width: 100%;
+    height: 100%;
+}
+#carousel{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+#card{
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    background-color: #fff;
+    display: flex;
+    flex: none;
+    margin: auto 5%;
+
+}
+#item{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+
+    display: flex;
+}
+#item img{
+    margin: auto;
+    height: 100%;
+}
+#buttons{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+}
+#buttons button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#buttons button img{
+    width: 90%;
+    transition: 0.5s;
+}
+#buttons button:hover img{
+    filter: drop-shadow( 0 0 5px #FFF);
+    transform: scale(1.2);
+} */
